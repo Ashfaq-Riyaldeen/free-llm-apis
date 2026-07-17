@@ -2,8 +2,7 @@
 
 > A curated, **decision-focused** guide to every LLM API you can use for **$0** in 2026 — which one to pick, what you can actually build, and how to stack them so you never pay for inference on a side project.
 
-<!-- Replace YOUR_USERNAME/YOUR_REPO once you create the repo -->
-[![Stars](https://img.shields.io/github/stars/YOUR_USERNAME/YOUR_REPO?style=for-the-badge&logo=github&color=yellow)](https://github.com/YOUR_USERNAME/YOUR_REPO/stargazers)
+[![Stars](https://img.shields.io/github/stars/Ashfaq-Riyaldeen/free-llm-apis?style=for-the-badge&logo=github&color=yellow)](https://github.com/Ashfaq-Riyaldeen/free-llm-apis/stargazers)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=for-the-badge)](CONTRIBUTING.md)
 [![Last Updated](https://img.shields.io/badge/updated-July%202026-orange?style=for-the-badge)]()
